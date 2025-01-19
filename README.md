@@ -44,11 +44,6 @@ This project was conducted by the AMIA 2024 Informatics Summit Scientific Progra
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or contributions, please contact:
-
-- **Yuan Luo** (Conference Chair for AMIA 2024 Informatics Summit) - [Email](mailto:yuan.luo@northwestern.edu)
 
 ## Citation
 
